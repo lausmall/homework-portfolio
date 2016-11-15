@@ -13,7 +13,6 @@ body {
   font-family: 'Quicksand', sans-serif;
   color: gray;
   position: absolute;
-  top: 200px;
   background: linear-gradient (black,white);
 }
 
